@@ -11,6 +11,7 @@ angular.module('starter', [
 	'ionic.service.core',
 	'supermodular.common',
 	'supermodular.home',
+	'supermodular.asyncissue',
 	'supermodular.asyncseries',
 	'supermodular.asyncparallel',
 	'supermodular.asyncwaterfall',

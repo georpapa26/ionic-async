@@ -10,6 +10,10 @@
 	/* @ngInject */
 	function menuItems() {
 		var data = [{
+			title: 'issue',
+			path: 'async-issue',
+			icon: 'ion-alert-circled'
+		}, {
 			title: 'series',
 			path: 'async-series',
 			icon: 'ion-more'
